@@ -24,7 +24,7 @@ BIN_DIR="$OPENCLAW_DIR/bin"
 GLIBC_LDSO="$PREFIX/glibc/lib/ld-linux-aarch64.so.1"
 
 # Node.js LTS version to install
-NODE_VERSION="22.22.0"
+NODE_VERSION="24.18.0"
 NODE_TARBALL="node-v${NODE_VERSION}-linux-arm64.tar.xz"
 NODE_URL="https://nodejs.org/dist/v${NODE_VERSION}/${NODE_TARBALL}"
 
